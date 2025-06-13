@@ -14,7 +14,7 @@ This project provides a Python simulation of the Dynamic Window Approach (DWA) a
 ![overtaking_situation](overtaking_situation.gif)
 ![crossing_situation](crossing_situation.gif)
 
-*上图展示了在左交叉会遇场景下的避碰效果。*
+*上图展示了在不同会遇场景下的避碰效果。*
 
 ## 主要特性 (Features)
 
