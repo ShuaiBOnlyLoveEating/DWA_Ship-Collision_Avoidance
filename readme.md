@@ -10,7 +10,6 @@ This project provides a Python simulation of the Dynamic Window Approach (DWA) a
 
 ## 演示 (Demo)
 
-*(建议您运行代码后，将生成的GIF动图替换下面的占位符，例如将其命名为 `dwa_ship_avoidance.gif` 并放在仓库根目录)*
 ![head-on_situation](head-on_situation.gif)
 ![overtaking_situation](overtaking_situation.gif)
 ![crossing_situation](crossing_situation.gif)
